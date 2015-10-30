@@ -1,5 +1,5 @@
 /**
- * @module stb-shim-classlist
+ * @module stb-shim-bind
  *
  * @author Stanislav Kalashnik <sk@infomir.eu>
  * @license GNU GENERAL PUBLIC LICENSE Version 3
