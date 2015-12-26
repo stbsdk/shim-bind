@@ -3,7 +3,7 @@ Shim for bind function
 
 [![NPM version](https://img.shields.io/npm/v/stb-shim-bind.svg?style=flat-square)](https://www.npmjs.com/package/stb-shim-bind)
 [![Dependencies Status](https://img.shields.io/david/stbsdk/shim-bind.svg?style=flat-square)](https://david-dm.org/stbsdk/shim-bind)
-[![Gitter](https://img.shields.io/badge/gitter-join%20chat-blue.svg?style=flat-square)](https://gitter.im/DarkPark/stb)
+[![Gitter](https://img.shields.io/badge/gitter-join%20chat-blue.svg?style=flat-square)](https://gitter.im/DarkPark/stbsdk)
 
 
 Pure JavaScript implementation of bind method in function prototype.
