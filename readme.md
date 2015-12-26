@@ -9,14 +9,14 @@ Shim for bind function
 Pure JavaScript implementation of bind method in function prototype.
 
 
-## Installation
+## Installation ##
 
 ```bash
 npm install stb-shim-bind
 ```
 
 
-## Usage
+## Usage ##
 
 Apply shim for bind:
 
@@ -25,12 +25,12 @@ require('stb-shim-bind');
 ```
 
 
-## Contribution
+## Contribution ##
 
 If you have any problem or suggestion please open an issue [here](https://github.com/stbsdk/shim-bind/issues).
 Pull requests are welcomed with respect to the [JavaScript Code Style](https://github.com/DarkPark/jscs).
 
 
-## License
+## License ##
 
 `stb-shim-bind` is released under the [GPL-3.0 License](http://opensource.org/licenses/GPL-3.0).
