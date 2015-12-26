@@ -6,7 +6,7 @@ Shim for bind function
 [![Gitter](https://img.shields.io/badge/gitter-join%20chat-blue.svg?style=flat-square)](https://gitter.im/DarkPark/stb)
 
 
-`stb-shim-bind` is a pure JavaScript implementation of bind method in function prototype.
+Pure JavaScript implementation of bind method in function prototype.
 
 
 ## Installation
