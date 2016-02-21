@@ -3,10 +3,10 @@
  * @license GNU GENERAL PUBLIC LICENSE Version 3
  */
 
+/* eslint-disable */
+
 'use strict';
 
-
-/* eslint-disable */
 
 if ( !Function.prototype.bind ) {
     Function.prototype.bind = function ( oThis ) {
