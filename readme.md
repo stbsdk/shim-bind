@@ -1,6 +1,7 @@
 Shim for bind function
 ======================
 
+[![Build Status](https://img.shields.io/travis/stbsdk/bind.svg?style=flat-square)](https://travis-ci.org/stbsdk/bind)
 [![NPM version](https://img.shields.io/npm/v/stb-shim-bind.svg?style=flat-square)](https://www.npmjs.com/package/stb-shim-bind)
 [![Dependencies Status](https://img.shields.io/david/stbsdk/shim-bind.svg?style=flat-square)](https://david-dm.org/stbsdk/shim-bind)
 [![Gitter](https://img.shields.io/badge/gitter-join%20chat-blue.svg?style=flat-square)](https://gitter.im/DarkPark/stbsdk)
