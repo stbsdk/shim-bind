@@ -1,9 +1,10 @@
 Shim for bind function
 ======================
 
-[![Build Status](https://img.shields.io/travis/stbsdk/bind.svg?style=flat-square)](https://travis-ci.org/stbsdk/bind)
-[![NPM version](https://img.shields.io/npm/v/stb-shim-bind.svg?style=flat-square)](https://www.npmjs.com/package/stb-shim-bind)
-[![Dependencies Status](https://img.shields.io/david/stbsdk/shim-bind.svg?style=flat-square)](https://david-dm.org/stbsdk/shim-bind)
+[![build status](https://img.shields.io/travis/stbsdk/bind.svg?style=flat-square)](https://travis-ci.org/stbsdk/bind)
+[![npm version](https://img.shields.io/npm/v/stb-shim-bind.svg?style=flat-square)](https://www.npmjs.com/package/stb-shim-bind)
+[![dependencies status](https://img.shields.io/david/stbsdk/shim-bind.svg?style=flat-square)](https://david-dm.org/stbsdk/shim-bind)
+[![devDependencies status](https://img.shields.io/david/dev/stbsdk/shim-bind.svg?style=flat-square)](https://david-dm.org/stbsdk/shim-bind?type=dev)
 [![Gitter](https://img.shields.io/badge/gitter-join%20chat-blue.svg?style=flat-square)](https://gitter.im/DarkPark/stbsdk)
 
 
